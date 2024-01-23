@@ -1,0 +1,194 @@
+.logo1 img {
+    border: solid 20px transparent;
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+}
+
+.logo2 p {
+    font-style: oblique;
+    font-size: medium;
+    color: white;
+    position: relative;
+    top: -39px;
+    right: -17px;
+
+
+}
+
+.bar img {
+    border: solid non;
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    position: relative;
+    right: -1227px;
+    top: -150px
+}
+
+nav {
+    background-color: rgb(0, 0, 0);
+    height: 3150px;
+}
+
+.main img {
+    border: solid non;
+
+    width: 300px;
+    height: 300px;
+    position: relative;
+    right: -500px;
+}
+
+.paragraph p {
+    color: #F2F2F2;
+    font-size: xx-large;
+    text-align: center;
+}
+
+.paragraph a {
+    color: #5D60E2;
+    font-size: xx-large;
+    position: relative;
+    right: -240px;
+
+}
+
+.prapraph1 {
+    color: #F2F2F2;
+    font-size: xx-large;
+    position: relative;
+    right: -480px;
+    top: -65px
+}
+
+.paragraph1 {
+    border-style: solid;
+    color: white;
+    border: inline solid rgb(0, 0, 0);
+    padding: 3px solid rgb(255, 254, 254);
+    background-color: rgb(65, 65, 65);
+    border-color: rgb(0, 0, 0);
+    height: 50px;
+    width: 900px;
+    font-size: large;
+    color: white;
+    text-align: center;
+    border-radius: 20px;
+    position: relative;
+    right: -230px;
+    line-height: 1px;
+}
+
+.design img {
+    padding: 1px solid black;
+    border-radius: 20px;
+}
+
+.design h1 {
+    color: rgb(255, 255, 255);
+}
+
+.design p {
+    color: rgb(255, 255, 255);
+}
+
+.Dashboards img {
+    padding: 1px solid rgb(153, 153, 153);
+    border-radius: 20px;
+
+}
+
+.Dashboards {
+    position: absolute;
+    top: 910px;
+    left: 800px;
+    color: white;
+}
+
+.Apps img {
+    padding: 1px solid rgb(70, 69, 69);
+    border-radius: 20px;
+
+}
+
+.Apps {
+    color: rgb(255, 255, 255);
+}
+
+.Websites img {
+    padding: 1px solid rgb(156, 156, 156);
+    border-radius: 20px;
+
+}
+
+.Websites {
+    position: absolute;
+    top: 1450px;
+    left: 700px;
+    color: rgb(255, 255, 255);
+}
+
+.heading {
+    color: white;
+    font-size: xxx-large;
+    text-align: center;
+}
+
+.work img {
+    padding: 10px solid black;
+    border-radius: 20px;
+}
+
+.heading2 {
+    color: white;
+    font-size: xxx-large;
+    text-align: center;
+}
+
+.heading3 {
+    color: #487CF6;
+    font-size: xxx-large;
+    text-align: center;
+}
+
+.button {
+    border-style: solid;
+    color: white;
+    border: inline solid white;
+    padding: 3px solid rgb(255, 254, 254);
+    background-color: rgb(0, 0, 0);
+    border-color: white;
+    height: 50px;
+    width: 350px;
+    font-size: large;
+    color: white;
+    text-align: center;
+    border-radius: 30px;
+    position: relative;
+    right: -470px;
+    line-height: 1px;
+}
+
+.social {
+    color:white;
+    list-style: none;
+    display: flex;
+    column-gap: 30px;
+    text-align: center;
+    position: relative;
+    right: -530px;
+    font-size: large;
+}
+.footer {
+  position: auto;
+  left: 0;
+  bottom: 0;
+  height: 100px;
+  width: 100%;
+  background-color: black;
+  color: white;
+  text-align: center;
+
+
+}
